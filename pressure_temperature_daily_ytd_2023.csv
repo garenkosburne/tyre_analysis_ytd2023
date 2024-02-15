@@ -1,4 +1,4 @@
-No,Tyre,Reg Unit,Tanggal Pengecekan,PIC,Suhu luar ruangan,Suhu Tyre,Aktual (PSI),Remedy PSI,Kondisi,Remark
+No,SN Tyre,Reg Unit,Tanggal Pengecekan,PIC,Suhu luar ruangan,Suhu Tyre,Aktual (PSI),Remedy PSI,Kondisi,Remark
 1,ABA 220911,ABA693,1/6/2023 8:15,"PAD, NHD, IWM",27,27,110,0,,
 2,ABA 220911,ABA693,1/13/2023 8:20,ARY,28,35,120,,,
 3,ABA 220708,ABA694,1/7/2023 8:10,JRT,26,26,105,15,,
